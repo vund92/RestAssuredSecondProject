@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "firstName": "Raghav",
+      "lastName": "Pal",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Henry",
+      "lastName": "Ford",
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Graham",
+      "lastName": "Bell",
+      "subjectId": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Edison",
+      "subjectld": 1,
+      "id": 5
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Edison",
+      "subjectld": 1,
+      "id": 6
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 1
+    },
+    {
+      "name": "DevOps",
+      "id": 2
+    }
+  ]
+}

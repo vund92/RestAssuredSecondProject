@@ -1,0 +1,28 @@
+﻿{
+    "store": {
+        "books": [{
+                "author": "Nigel Rees",
+                "category": "reference",
+                "price": 150.5,
+                "title": "Sayings of the Century"
+            }, {
+                "author": "Evelyn Waugh",
+                "category": "Fiction",
+                "price": 100,
+                "title": "Sword of Honour"
+            }, {
+                "author": "Herman Melville",
+                "category": "Fiction",
+                "isbn": "0-553-21311-3",
+                "price": 75.5,
+                "title": "Moby Dick"
+            }, {
+                "author": "3. R. R. Tolkien",
+                "category": "fiction",
+                "isbn": "0-395-19395-8",
+                "price": 200,
+                "title": "The Lord of the Rings"
+            }
+        ]
+    }
+}
